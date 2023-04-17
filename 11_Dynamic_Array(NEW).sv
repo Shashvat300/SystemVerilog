@@ -32,13 +32,6 @@ endmodule
 
 
 
-
-
-
-
-
-
-
 // Result.........
 Size of the array is 4
 
