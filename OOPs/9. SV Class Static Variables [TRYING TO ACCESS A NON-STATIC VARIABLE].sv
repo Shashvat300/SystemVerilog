@@ -7,7 +7,7 @@ class STATIC;
   static int a;
   reg [3:0] r;
   
-//   constructor__________
+//   constructor_________
   function new();
     s="Shashvat";
     a=-23;
