@@ -21,10 +21,7 @@ endmodule
 
 
 
-
-
-
-// Result.........
+// Result.........>
 Compiler version S-2021.09; Runtime version S-2021.09;  Apr 14 09:31 2023
 Size of array_a is           3
 	 array_a[1]=20
