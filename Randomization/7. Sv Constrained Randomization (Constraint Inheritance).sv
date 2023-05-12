@@ -40,7 +40,7 @@ endmodule
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-
+// Output...
 CPU time: .293 seconds to compile + .396 seconds to elab + .457 seconds to link
 Chronologic VCS simulator copyright 1991-2021
 Contains Synopsys proprietary information.
