@@ -1,4 +1,4 @@
-// 4. SV Disable Randomization (Randomization Disable for a Class Variable)
+// 4. SV Disable Randomization (Randomization Disable for all Class Variable)
 
 class Parant;
    
