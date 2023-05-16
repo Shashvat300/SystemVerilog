@@ -1,4 +1,4 @@
-// 21. SV Soft Constraints (Conflict between Constraint)
+// 21. SV Soft Constraints (Using Soft Constraint)
 
 class myClass;
   
