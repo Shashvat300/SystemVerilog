@@ -1,4 +1,4 @@
-// 2. SV Semaphore (Using “try_get()”)
+// 3. SV Semaphore (Using “try_get()”)
 
 module Semaphore_ex();
   
