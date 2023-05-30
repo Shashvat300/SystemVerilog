@@ -1,4 +1,4 @@
-// Event (Trigger & Wait"@ Operator" for an event at same time ) 
+// 6. Event (Trigger & Wait"@ Operator" for an event at same time ) 
 
 
 module Event_ev();
